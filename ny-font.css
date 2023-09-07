@@ -1,0 +1,358 @@
+@font-face {
+    font-family: 'NewYork';
+    src: url('New-York/NewYork.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYork';
+    src: url('New-York/NewYorkItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/*Small*/
+@font-face {
+    font-family: 'NewYorkSmall-Black';
+    src: url('New-York/NewYorkSmall-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Black';
+    src: url('New-York/NewYorkSmall-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Bold';
+    src: url('New-York/NewYorkSmall-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Bold';
+    src: url('New-York/NewYorkSmall-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Heavy';
+    src: url('New-York/NewYorkSmall-Heavy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Heavy';
+    src: url('New-York/NewYorkSmall-HeavyItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Medium';
+    src: url('New-York/NewYorkSmall-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Medium';
+    src: url('New-York/NewYorkSmall-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Regular';
+    src: url('New-York/NewYorkSmall-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Regular';
+    src: url('New-York/NewYorkSmall-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Semibold';
+    src: url('New-York/NewYorkSmall-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkSmall-Semibold';
+    src: url('New-York/NewYorkSmall-SemiboldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/*Medium*/
+
+@font-face {
+    font-family: 'NewYorkMedium-Black';
+    src: url('New-York/NewYorkMedium-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Black';
+    src: url('New-York/NewYorkMedium-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Bold';
+    src: url('New-York/NewYorkMedium-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Bold';
+    src: url('New-York/NewYorkMedium-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Heavy';
+    src: url('New-York/NewYorkMedium-Heavy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Heavy';
+    src: url('New-York/NewYorkMedium-HeavyItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Medium';
+    src: url('New-York/NewYorkMedium-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Medium';
+    src: url('New-York/NewYorkMedium-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Regular';
+    src: url('New-York/NewYorkMedium-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Regular';
+    src: url('New-York/NewYorkMedium-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Semibold';
+    src: url('New-York/NewYorkMedium-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkMedium-Semibold';
+    src: url('New-York/NewYorkMedium-SemiboldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+/*Large*/
+
+@font-face {
+    font-family: 'NewYorkLarge-Black';
+    src: url('New-York/NewYorkLarge-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Black';
+    src: url('New-York/NewYorkLarge-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Bold';
+    src: url('New-York/NewYorkLarge-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Bold';
+    src: url('New-York/NewYorkLarge-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Heavy';
+    src: url('New-York/NewYorkLarge-Heavy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Heavy';
+    src: url('New-York/NewYorkLarge-HeavyItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Medium';
+    src: url('New-York/NewYorkLarge-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Medium';
+    src: url('New-York/NewYorkLarge-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Regular';
+    src: url('New-York/NewYorkLarge-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Regular';
+    src: url('New-York/NewYorkLarge-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Semibold';
+    src: url('New-York/NewYorkLarge-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkLarge-Semibold';
+    src: url('New-York/NewYorkLarge-SemiboldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+/*Extra Large*/
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Black';
+    src: url('New-York/NewYorkExtraLarge-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Black';
+    src: url('New-York/NewYorkExtraLarge-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Bold';
+    src: url('New-York/NewYorkExtraLarge-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Bold';
+    src: url('New-York/NewYorkExtraLarge-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Heavy';
+    src: url('New-York/NewYorkExtraLarge-Heavy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Heavy';
+    src: url('New-York/NewYorkExtraLarge-HeavyItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Medium';
+    src: url('New-York/NewYorkExtraLarge-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Medium';
+    src: url('New-York/NewYorkExtraLarge-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Regular';
+    src: url('New-York/NewYorkExtraLarge-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Regular';
+    src: url('New-York/NewYorkExtraLarge-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Semibold';
+    src: url('New-York/NewYorkExtraLarge-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NewYorkExtraLarge-Semibold';
+    src: url('New-York/NewYorkExtraLarge-SemiboldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
